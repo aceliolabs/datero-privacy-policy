@@ -1,17 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Datero Privacy Policy</title>
-</head>
-<body>
-  <main>
-    <h1>Datero Privacy Policy</h1>
-    <p>Last updated: October 15, 2026</p>
-
-    # Privacy Policy for Datero
+# Privacy Policy for Datero
 
 **Last updated: October 15, 2026**
 
@@ -129,10 +116,4 @@ For privacy-related questions or requests, contact:
 **App:** Datero  
 **Developer / Data Controller:** Miguel Gonçalves
 **Email:** aceliolabs@gmail.com
-
-
-    <p>Contact: aceliolabs@gmail.com</p>
-  </main>
-</body>
-</html>
 
